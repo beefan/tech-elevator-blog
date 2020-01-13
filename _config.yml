@@ -26,7 +26,7 @@ permalink: pretty
 
 paginate:            1000
 paginate_path:       "/page:num/"
-baseurl:             "https://beefan.github.io/tech-elevator-blog/"
+baseurl:             "tech-elevator-blog"
   
 compress_html:
   clippings: all
