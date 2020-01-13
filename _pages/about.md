@@ -3,21 +3,8 @@ layout: page
 title: About
 ---
 
-## Gray - Single column blog and portfolio Jekyll theme 
+## Tech Elevator Columbus || Java Cohort[10] || Jan. 2020 - Apr. 2020
 
-Minimal one-column portfolio/blog theme built for Jekyll. Theme weighs under 3kb. Perfect for your personal website, blog and portfolio.
+Starting in January 2020, I embarked on a journey to complete a coding bootcamp and land a job as a software developer.
+This blog details my journey, summarizes what I've learned, and outlines my quest for a new career. 
 
-### Key features
-
-- seo optimized
-- weighs under 3kb
-- portfolio/blog/tag pages
-- AAA, 100/100 scores on Lighthouse, Gmetrix and Webpagetest
-- responsive
-- inline css
-- compressed css, html
-- sitemap
-- robots.txt
-- atom feed
-- json feed
-- http security headers
