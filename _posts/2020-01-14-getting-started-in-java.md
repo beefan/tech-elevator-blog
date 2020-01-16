@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 2: Intro to Java
+title: Day 2 Intro to Java
 description: Second lesson introducing java and eclipse. 
 summary: Lesson included an introduction to java & eclipse, variables, data types, expressions, arithmetic operators, and type conversion. 
 tags: [eclipse, variables, operators, pathway]
