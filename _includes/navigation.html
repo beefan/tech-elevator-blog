@@ -2,8 +2,8 @@
   <ul>
     <li><a href="/{{ site.baseurl }}" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
     <li><a href="/{{ site.baseurl }}/about" {% if page.url == "/about" %}class="active"{% endif %}>About</a></li>
-    <!-- tags are broken and so I tried removing hrefs, then gave up. This shouldn't be a page. 
-    	<li><a href="/{{ site.baseurl }}/tags" {% if page.url == "/tags" %}class="active"{% endif %}>Tags</a></li>-->
+    <!-- tags are broken and so I tried removing hrefs -->
+    	<li><a href="/{{ site.baseurl }}/tags" {% if page.url == "/tags" %}class="active"{% endif %}>Tags</a></li>
     <!--<li><a href="/projects" {% if page.url == "/projects" %}class="active"{% endif %}>Projects</a></li>
     <li><a href="/atom.xml">Feed</a></li>-->
   </ul>
