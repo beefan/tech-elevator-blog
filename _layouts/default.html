@@ -8,13 +8,11 @@ layout: compress
   {% include head.html %}
 
   <body>
-
   <span class="over"></span>
-    
-    {% include masthead.html %}
 
+    {% include masthead.html %}
+      <h1>BRANDON DOES A CODING BOOTCAMP</h1>
       <main id="main" role="main">
-	      <h1>BRANDON DOES A CODING BOOTCAMP</h1>
         {{ content }}
       </main>
 
@@ -24,11 +22,12 @@ layout: compress
     {% include footer.html %}
 
   </body>
-
   <style>
     h1 {
+      text-align:center;
+      color: #333;
+      font-family: serif;
       background-color: #ccc;
-      text-align: center;
     }
   </style>
 </html>

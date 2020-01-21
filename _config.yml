@@ -1,13 +1,13 @@
-site: Brandon becomes a developer
-url: https://beefan.github.io/tech-elevator-blog/
-author: Brandon Fannin
+site: Tech Elevator Blog
+url: # url
+author: # your name
 author:
-  name: Brandon Fannin
+  name: # your name
   email: # your email 
   url: # url
   avatar: 
-title: Tech Elevator Experience
-description: Tech Elevator Daily Journal
+title: Tech Elevator Blog
+description: Tracking my experience through a Java development Bootcamp
 logo: 
 image: 
 twitter: # twitter 
@@ -15,18 +15,22 @@ twitter:
   username: # twitter
   creator: # twitter
   card: summary
+social:
+  name: Brandon Fannin
+  links:
+    - https://github.com/beefan
   
-#repository: ronv/website
+repository: beefan/tech-elevator-blog
 
 permalink: pretty
 
-#disqus:
-  #name: "your username" # required
-  #noscript: "Please enable JavaScript to view the comments powered by Disqus." # optional
+disqus:
+  name: "your username" # required
+  noscript: "Please enable JavaScript to view the comments powered by Disqus." # optional
 
 paginate:            1000
 paginate_path:       "/page:num/"
-baseurl:             "tech-elevator-blog"
+baseurl:             ""
   
 compress_html:
   clippings: all
