@@ -24,9 +24,9 @@ repository: beefan/tech-elevator-blog
 
 permalink: pretty
 
-disqus:
-  name: "your username" # required
-  noscript: "Please enable JavaScript to view the comments powered by Disqus." # optional
+# disqus:
+#   name: "your username" # required
+#   noscript: "Please enable JavaScript to view the comments powered by Disqus." # optional
 
 paginate:            1000
 paginate_path:       "/page:num/"
