@@ -8,7 +8,7 @@ tags: [functions, classes, OOP, pathway, meetup]
 Though I've been keeping up on the work and the information I'm learning in class is mostly review (albeit review of stuff I haven't touched in 5 years...), I'm still *exhausted!* The pace of the class in addition to preparing elevator pitches, touching up my linkedin page, and trying to make it out to meetups is intense! I feel like every part of my life is focused on this one goal. I need some time to just star at the wall! 
 
 Needless to say, I felt like I was still asleep for the first half of class. Brian introduced the main principles of Object Oriented Programming (OOP) today and then segwayed into talking about classes. We learned 3 fundamental principles of OOP:
-1. Encapsulation - hiding functionality behind and easy to use interface
+1. Encapsulation - hiding functionality behind an easy to use interface
 2. Inheritence - classes that are descendants of other classes attain attributes and behaviors of ancestors
 3. Polymorphism - code should be able to take many forms, such that we can treat it like its ancestor class and still get a specific response
 
