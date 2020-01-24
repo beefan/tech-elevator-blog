@@ -23,6 +23,7 @@ social:
 repository: beefan/tech-elevator-blog
 
 permalink: pretty
+markdown: kramdown
 
 # disqus:
 #   name: "your username" # required
