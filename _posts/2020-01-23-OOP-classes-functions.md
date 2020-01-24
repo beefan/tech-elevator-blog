@@ -2,7 +2,7 @@
 layout: post
 title: Day 9 Object Oriented Programming
 description: Object Oriented programming & Classes--encapsulation, inheritence, & polymorphism 
-summary: today we started our dive into Object Oriented programming
+summary: Today we started our dive into Object Oriented programming
 tags: [functions, classes, OOP, pathway, meetup]
 ---
 Though I've been keeping up on the work and the information I'm learning in class is mostly review (albeit review of stuff I haven't touched in 5 years...), I'm still *exhausted!* The pace of the class in addition to preparing elevator pitches, touching up my linkedin page, and trying to make it out to meetups is intense! I feel like every part of my life is focused on this one goal. I need some time to just star at the wall! 
@@ -21,7 +21,7 @@ We practiced creating a simple class and then using it to build a Rectangle obje
 
 More to come on classes too. 
 
-##Okay so about that meetup at root I attended last night: 
+## Okay so about that meetup at root I attended last night: 
 
 Root's space is industrial-modern and they brought in catered Piada and local beers for the guests. The topic of the meetup was Data Goverance and using data visualization to increase compliance. Though it seemed like most people there were data analysts, anything related to managing big data is interesting to me. I had no frame of reference when tools like tableu or viz were mentioned, but in general I was able to understand the main points of the talk. 
 
