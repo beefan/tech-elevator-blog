@@ -4,9 +4,9 @@
 permalink:           pretty
 
 # Setup
-title:            Bootcamp Blog
-tagline:          'a programmer'
-description:      "Brandon does a coding bootcamp at Tech Elevator and blogs about it here. "
+title:            Brandon Does a Coding Bootcamp
+tagline:          'at Tech Elevator - Columbus, OH'
+description:      "Brandon does a coding bootcamp at Tech Elevator. He blogs about it here. "
 url:              https://beefan.github.io/
 baseurl:          https://www.brandonfannin.com/tech-elevator-blog/
 
