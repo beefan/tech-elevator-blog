@@ -1,93 +1,23 @@
-site: Tech Elevator Blog
-url: # url
-author: # your name
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:            Bootcamp Blog
+tagline:          'a programmer'
+description:      "Brandon does a coding bootcamp at Tech Elevator and blogs about it here. "
+url:              https://beefan.github.io/
+baseurl:          https://www.brandonfannin.com/
+
 author:
-  name: # your name
-  email: # your email 
-  url: # url
-  avatar: 
-title: Tech Elevator Blog
-description: Tracking my experience through a Java development Bootcamp
-logo: 
-image: 
-twitter: # twitter 
-twitter:
-  username: # twitter
-  creator: # twitter
-  card: summary
-social:
-  name: Brandon Fannin
-  links:
-    - https://github.com/beefan
-  
-repository: beefan/tech-elevator-blog
+  name:           'Brandon Fannin'
+  url:            https://brandonfannin.com
 
-permalink: pretty
-markdown: kramdown
+paginate:         100
 
-# disqus:
-#   name: "your username" # required
-#   noscript: "Please enable JavaScript to view the comments powered by Disqus." # optional
+# Custom vars
+version:          2.1.0
 
-paginate:            1000
-paginate_path:       "/page:num/"
-baseurl:             "tech-elevator-blog"
-  
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-plugins:
-  - jekyll-paginate
-  - jekyll-gist
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - disqus-for-jekyll
-
-collections:
-  pages:
-    output: true
-    permalink: /:name
-  posts:
-    output: true
-    permalink: /:year/:month/:day/:slug
-  projects:
-    output: true
-    permalink: /projects/:slug
-  art:
-    output: true
-    permalink: /art/:slug
-  
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  -
-    scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"     
-      
-  - scope:
-      path: "assets/images"
-    values:
-      image: true
+github:
+  repo:           https://github.com/beefan/beefan.github.io
