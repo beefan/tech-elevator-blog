@@ -27,6 +27,20 @@
  * Themes
  */
 
+ /*
+ * Font awesome icons inline
+ */
+
+ .icons-flex {
+  white-space: nowrap;
+  display: flex;
+  justify-content: space-between;
+ }
+
+ .icon {
+  font-size: 2.25rem;
+ }
+
 
 /*
  * Global resets
@@ -445,12 +459,12 @@ a.pagination-item:hover {
 .theme-base-08 .sidebar,
 .theme-base-08 .sidebar-toggle:active,
 .theme-base-08 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #ac4142;
+  background-color: #3b3a3b;
 }
 .theme-base-08 .container a,
 .theme-base-08 .sidebar-toggle,
 .theme-base-08 .related-posts li a:hover {
-  color: #ac4142;
+  color: #72036c;
 }
 
 /* Orange */
