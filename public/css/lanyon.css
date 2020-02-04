@@ -34,11 +34,7 @@
  .icons-flex {
   white-space: nowrap;
   display: flex;
-  justify-content: space-between;
- }
-
- .icon {
-  font-size: .75rem;
+  justify-content: normal;
  }
 
 
