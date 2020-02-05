@@ -33,11 +33,13 @@
 
  .icons-flex {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
+  flex-wrap: wrap;
  }
 
  .icon {
   flex-grow: 1;
+  flex-shrink: 1;
  }
 
 
