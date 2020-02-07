@@ -9,7 +9,7 @@ Wow. Module 1 is almost over. Today we started our first capstone project to pra
 
 Brian spent the first hour of class going over the capstone project and giving us some hints on how we might approach the project. One thing he mentioned multiple times is that design should come first. My pair partner, Suzan, and I took that piece of advice to heart.
 
-Suzan has no programming experience, but she's an absolute acheiver. We spent hours on design. We made a beautiful graphical representation of our project and its classes: ![capstoneplan](/public/Capstone1Outline.png "Our capstone project desing") 
+Suzan has no programming experience, but she's an absolute acheiver. We spent hours on design. We made a beautiful graphical representation of our project and its classes: ![capstoneplan]({{ site.baseurl }}/public/Capstone1Outline.png "Our capstone project design") 
 
 We also took the time to plan every method that we will create in each class. It was helpful to look back at some of our previous code from the module to figure out what methods would go where. We were probably the last group to start coding, but once we did it was our thorough planning made it easy to make steady progress. 
 
