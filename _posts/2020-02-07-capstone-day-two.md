@@ -19,4 +19,4 @@ We considered calling it and coming back to finish on Saturday, but we were so c
 
 Everyone was insanely eager to help us with our final steps and we implemented the logger in probably 20 minutes. We ran a few more run throughs of our project and then commited. It was 8pm, but we had our weekend. 
 
-Besides the capstone, there was also a panelist event at Tech Elevator during lunch. Three tech professionals who work alongside software developers shared their stories. One was a Quality Assurance tester, one was a Product Owner, and one was a Data Scientist. It was interesting and helpful to hear about the different career paths which are explicitly *software developer.* 
+Besides the capstone, there was also a panelist event at Tech Elevator during lunch. Three tech professionals who work alongside software developers shared their stories. One was a Quality Assurance tester, one was a Product Owner, and one was a Data Scientist. It was interesting and helpful to hear about the different career paths which aren't explicitly *software developer.* 
