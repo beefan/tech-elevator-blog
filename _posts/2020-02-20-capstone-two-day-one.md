@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 29 Capstone 2, Day 2
+title: Day 29 Capstone 2, Day 1
 summary: We started our second capstone project today. We are making a venue reservation system to practice interacting with a database in Java. 
 ---
 
