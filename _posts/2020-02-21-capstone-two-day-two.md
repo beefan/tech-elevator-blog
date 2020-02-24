@@ -16,7 +16,7 @@ We still have a lot of work left to do, but it's kind of hard to predict exactly
 
 Around lunch time, we had a recruiter panel. Representatives from Amazon, Upstart, and Beam Dental all came to talk about their experiences interviewing techincal candidates. Before the panel, it was time for my group to give their Elevator pitches for the second time. The words left my mouth much more smoothly than before and it was over quickly. 
 
-It was awesome to hear a little more about the various interview processes, get advice on how to ask questions, and learn what makes candidates stand out. I'm nervous to start technical interviews, but eager to get started soon. 
+It was cool to hear a little more about the various interview processes, get advice on how to ask questions, and learn what makes candidates stand out. I'm nervous to start technical interviews, but eager to get started soon. 
 
 
 
