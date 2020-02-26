@@ -16,6 +16,8 @@ The last thing we talked about was database *normalization.* Normalization refer
 * Uses keys to reference groups of like data
 * Has no transitive dependencies 
 
+#### Career Strategy:
 After class, I had a career strategy meeting with Ben. We talked about career goals and my LinkedIn page. It was a casual meeting and I left feeling pretty well prepared for the job hunt soon to come.
 
+#### Code Review: 
 At the tail end of the day was the code review for my first capstone project. Suzan and I sat with Brian for an hour and went through all of our code. There were a few cases where we could have encapsulated more functionality and others where we could have created our own Exception classes. Overall though, it seemed like Brian was impressed that we took so much time to plan out our design. Despite a few things we could have done better, the ways our classes interacted with each other were consistent and made sense. This was a great meeting and the feedback constructive. 

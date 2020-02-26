@@ -12,8 +12,10 @@ We also learned about encryption. Brian taught about how passwords are often has
 
 There are a few different hashing algorithms, but all of them take some text and provide a completely unique hash of a constant length. Change the text by even one character and the hash is completely different. Everything from encrypted email to the https protocol uses this technology. 
 
+#### Pathway: 
 After class we had a pathway meeting about employement types and recruiters. The types of employement Katie compared were: Full time employment, contract to hire, and free lancing. The only benefit I see to contract work is the potential to learn many different technologies and work with many different people. Full time employment offers the most security by far. 
 
+#### Interactive Workshop:
 Later on in the evening, Andrew put on an interactive Git workshop. In our day-to-day at Tech Elevator, we use basic Git commands. Andrew helped us to learn about merging and branching while also introducing us to a way to safely practice other git commands with [git katas](https://github.com/praqma-training/git-katas.git).
 
 

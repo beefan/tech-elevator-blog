@@ -16,6 +16,7 @@ The goal is always loose coupling, but Brian taught us that real applications ar
 
 In class, we designed a card class and a deck class. Brian used this as a way to show us how to model objects in the real world using Java classes and how to start to think about what attributes and behaviors might be useful to put into code. 
 
+#### Pathway: 
 After class, Ben and the pathway program put on an alumni panel where we heard from four people who have already been through the program and now working in the software development industry. It was really helpful to hear success stories and get advice on how to manage our time and our health throughout the rest of the cohort. The overwhelming sentiment was that Tech Elevator builds confidence--in skills and in self. 
 
 

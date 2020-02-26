@@ -10,5 +10,6 @@ In class we used CSS to make a simple page mimic trello's user interface. CSS fr
 
 I'm excited to integrate this lesson with java and database stuff to finally move beyond the command line user interface. 
 
+#### Pathway:
 Right after lunch, we had a pathway event called Interviewing 101. Ben quite candidly detailed how to prepare for interviews, what not to do, and how to realistically frame our employement quest in our own minds. We are heading into mock behavioral interviews this week and before we know it, technical interviews. It's important to feel confident and not take rejections too seriously from this point forward. 
 

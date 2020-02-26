@@ -14,7 +14,7 @@ Beyond this simple understanding, I couldn't explain what Spring actually is tho
 
 After glossing over the way things glued together, we jumped into Eclipse and looked at some implementation. Essentially, a row in a specific database table translates to a class in java. We build a DAO interface which maps to a particular table and create the methods we need to access specific data. Then, we implement the DAO in another class which builds the SQL strings and uses Spring JDBC to run the queries. 
 
-### Meetup
+#### Meetup:
 
 In the evening, I went to another Columbus Ruby Brigade meetup at CoverMyMeds. [Glenn Harmon Jr.](https://www.linkedin.com/in/glenn-harmon-jr-2b1a691a/) gave a talk on The Value Of Small PR. PR = Pull Request. The essential thesis was: push smaller changes to your code base instead of larger complete features to avoid lengthy code reviews, unmanageable bugs, and doing too much. There's no doubt I will be considering this talk as I write my first professional lines of code. After Glenn spoke, the Columbus Ruby Brigade announced they will be hosted by Root Insurance from this point on. 
 

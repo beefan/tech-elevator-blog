@@ -21,7 +21,7 @@ We practiced creating a simple class and then using it to build a Rectangle obje
 
 More to come on classes too. 
 
-## Okay so about that meetup at root I attended last night: 
+#### Meetup: 
 
 Root's space is industrial-modern and they brought in catered Piada and local beers for the guests. The topic of the meetup was Data Goverance and using data visualization to increase compliance. Though it seemed like most people there were data analysts, anything related to managing big data is interesting to me. I had no frame of reference when tools like tableu or viz were mentioned, but in general I was able to understand the main points of the talk. 
 

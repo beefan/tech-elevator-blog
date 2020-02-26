@@ -12,4 +12,5 @@ This is all to say that today was another easy day. Besides my calculator progra
 
 I'm familiar with java. I'm familiar with eclipse. I've written complex methods and worked on teams collaborating with other software developers. It's been easy to fear the intensity of Tech Elevator, especially after orientation outlined just how fast we were going to move. But, I'm quickly realizing that basic programming skills are hardwired into my brain already. Which means the first couple weeks are going to be less challenging than I imagined. 
 
-**After class,** we got some professional headshots done to add to our linkedin profiles. Perhaps more than programming, networking skills and the skill to tell my personal story confidently to total strangers is what I seek to gain from Tech Elevator. I've already been reminded that I can do the work. Believing in myself and my ability to connect with others is the next step. 
+#### Pathway:
+After class, we got some professional headshots done to add to our linkedin profiles. Perhaps more than programming, networking skills and the skill to tell my personal story confidently to total strangers is what I seek to gain from Tech Elevator. I've already been reminded that I can do the work. Believing in myself and my ability to connect with others is the next step. 

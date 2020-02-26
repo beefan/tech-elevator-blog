@@ -14,6 +14,7 @@ Of course, we have been leading up to this all along when we talked about encaps
 
 Brian said that he wants us to be familiar with the general design pattern before we ramp up to full study of the Model - View - Controller design in module two. I'm sure it's better to be a little confused now vs. totally confused later.
 
+#### Lightning Talks: 
 After class, a few students gave lightning talks. The topics were very future-focused and I enjoyed hearing about Bitcoin and the potential of Blockchain technology. The presentation on AI was also interesting because it brought up more philosophical questions than technical. We really don't know where we are going with AI until we get there, but some philosophers will be proven right and some wrong. 
 
 

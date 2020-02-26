@@ -12,7 +12,7 @@ We also learned about Sets. Sets have one main function: storing data without du
 
 Brian spent a little time on algorithm complexity. This is a computer science topic that we could apparently spend years studying so we only scratched the surface. The main lesson I took away is that algorithm complexity is important to ensure that a software application can execute efficiently at scale. Performance of our software is not necessarily measured by the speed of execution, but by the rate of change in that speed as the problem size increase.
 
-## Meetup
+#### Meetup:
 Tonight I'm going to another meetup. This one is at Root, an insurance startup downtown. The topic is on data visualization and data strategies. My interest in Big Data is why I RSVP'd. More details tomorrow. 
 
 

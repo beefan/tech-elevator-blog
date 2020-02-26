@@ -13,6 +13,7 @@ We run our tests not on the production database however, but instead a locally h
 
 The most important thing about testing the database is to start a transaction in the setup, and in the teardown rollback the changes and close the database connection. 
 
+#### Employer Showcase:
 After class, we had an employer showcase. Root Insurance company came and presented information about their company and interviewing for technology companies in general. The culture at Root is highly desirable and they are hiring 60-70 engineers this year alone. !!
 
 The tips they gave us for general interviewing are great and I'll reproduce them here: 

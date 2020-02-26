@@ -12,5 +12,6 @@ Similar to last capstone, we pair programmed for the entire project. The differe
 
 Even though the capstone took a lot of time and energy, I had a lot of fun doing it and I feel proud of the code we wrote. :D
 
+#### Not the Capstone:
 And because this blog is not only a tracker on the development of my skills at Tech Elevator but also on the development of my interests, I want to briefly mention something that caught my eye this weekend. AI researcher, Joanna Bryson, made a post on LinkedIn about predujice in AI. I asked for more information and she sent her article *[We Didn't Prove Prejudice is True](https://joanna-bryson.blogspot.com/2017/04/we-didnt-prove-prejudice-is-true-role.html)*. Machine Learning (because it learns from datasets created by human societies) will make discrimination more invisible and more efficient rather than eliminate it. Besides the capstone, this is something I've been chewing on this week.
 
