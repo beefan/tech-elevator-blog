@@ -35,7 +35,7 @@ An example of flexbox is a bit simpler because all css goes in the container.
 }
 ```
 
-Of course, these are many ways to implement and combine these two and many options no detailed here.
+Of course, these are many ways to implement and combine these two and many options not detailed here.
 
 #### Employer Showcase:
 After class we had an employer showcase. I'm starting to get use to these showcases. The companies that come in and present pay the bill for catered lunch so they can teach us about their companies. The gesture itself makes me feel valued as a Tech Elevator student. 
