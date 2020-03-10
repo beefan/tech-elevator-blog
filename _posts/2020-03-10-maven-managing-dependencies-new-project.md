@@ -4,7 +4,7 @@ title: Day 41 Maven and Starting a New Project
 summary: Today we covered creating new Maven projects and managing dependencies. Illness kept me from an employer showcase and a review. 
 ---
 
-Maven is a build tool, but also a dependency management tool. Brian showed us how we can outline our dependencies in the `pom.xml` file in order to have maven go out and fetch the necessary jars to run our project. 
+Maven is a build tool, but also a dependency management tool. Brian showed us how we can define our dependencies in the `pom.xml` file in order to have maven go out and fetch the necessary jars to run our project. 
 
 To build a full stack web project like we've been working with the last week, we need to add the `javax-servlet-api`, `jstl`, and `spring-web-mvc`. We then need to define the dispatcher servlet and servlet mapping in the `web.xml`. Then define beans, datasource, base package, and the view resolver in the `spring-servlet.xml`. 
 
