@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 37 Sessions and Cookies 
+title: Day 38 Sessions and Cookies 
 summary: HTTP is Stateless meaning it always forgets what it just did. This is great for security, but what does it mean for storing data? Today we look at using cookies to store session information.
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 41 Maven and Starting a New Project
+title: Day 42 Maven and Starting a New Project
 summary: Today we covered creating new Maven projects and managing dependencies. Illness kept me from an employer showcase and a review. 
 ---
 

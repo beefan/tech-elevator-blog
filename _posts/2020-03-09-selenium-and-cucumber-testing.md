@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 40 Selenium and Cucumber Testing
+title: Day 41 Selenium and Cucumber Testing
 summary: Selenium facilitates writing automation around the browser. Cucumber allows non-technical members of teams to write behavior driven development features in natural language. Today, learned how to use both for testing. 
 ---
 

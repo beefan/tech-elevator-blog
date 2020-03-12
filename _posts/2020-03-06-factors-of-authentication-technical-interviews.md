@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 39 User Authentication & Technical Interviews 
+title: Day 40 User Authentication & Technical Interviews 
 summary: On this Friday we talked about user authentication, app security, and potential exploits. After that, we had a presentation about technical interviews to prepare us for what to expect in the near future. 
 ---
 Authentication is verifying user account information to allow them access to our applications. This is a much more difficult issue than it initially seems. Passwords can be easy to crack and at the same time impossible to remember. There are other ways to verify user access:

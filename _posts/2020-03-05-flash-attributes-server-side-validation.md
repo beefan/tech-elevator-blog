@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 38 Server Side Validation & Flash Attributes
+title: Day 39 Server Side Validation & Flash Attributes
 summary: Today we learned about server side validation using the Hiberate Validation library. We also learned about using flash attributes to pass information temporarily through a redirect. Accenture came in for lunch to showcase the Columbus Innovation Hub.  
 ---
 Previously this week we learned about the POST-REDIRECT-GET design pattern. Because Http is stateless the GET has no access to the information in the POST. Using **flash attributes**, we can put any object of any type into a temporary scope. Flash attributes are stored for just one more request and allow us to do things like display confirmation numbers to the users. 
