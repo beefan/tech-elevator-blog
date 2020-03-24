@@ -9,6 +9,8 @@ Matchmaking is usually a series of in person interviews held at Tech Elevator. T
 
 That means I met with two companies today: Big Lots and ODW Logistics! I don't want to comment too much on the specifics of the interviews, but I will say that the virtual matchmaking was way less intimidating than I imagined it in my head. The pathway directors worked hard to ensure a seamless experience and I can't imagine it would have been any better in person! It was great to get exposure to interviewing and connecting with recruiters remotely. 
 
+Spent my time in between interviews working on a basic javascript chess game to develop my event **handling** skills and **DOM Manipulation** skills. For now, it loads the board and you can move pieces around, but there are no rules. Check it out [here](https://github.com/beefan/js-chess)!
+
 #### Okay, a Postscript
 I try to keep this blog mostly about technology, a record of my journey to becoming a software developer, but today I want to address the elephant in the room. 
 
