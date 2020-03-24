@@ -1,35 +1,28 @@
 ---
 layout: post
-title: Day 50 Event Handling
-summary: Today we covered event handling and the observer/listener pattern
+title: Day 51 Responsive Design and Review
+summary: We covered responsive design today and also walked through a simple game to review what we've learned thus far about javascript.
 ---
-We covered event handling today in class. Events are actions or occurences in an application. Events are not exclusive to web applications.
+In class today, we covered responsive design. Responsive design simple means designing our we applications so that they will look good on mobile, tablet, and computer screens. 
+Steps to acheive responsive design: 
+1. Design for mobile first
+2. Avoid fixed dimensions 
+3. Design for specific devices
+4. Prioritize content differently for different devices
+5. Use *em* or *rem* for sizing instead of *px*
+6. Use *min-width* or *max-width*, but not both
 
-The basic pattern we learned to handle events is:
-* Register a listener/observer to a DOM element
-* Define the callback function 
+There are also plenty of javascript frameworks that utilize responsive design and make it easy to implement responsiveness in your applications. We will learn one--**Vue.js**--later on. 
 
-```
-document.getElementById('groceries').addEventListener('click', event => callBackFunction);
-```
+The other aspect of responsive design we covered is the **CSS Media Query**. This is simply conditional CSS which is applied for different size devices. We achieve this by designing first for mobile, and then setting breakpoints where the CSS should change. An example breakpoint: `@media only screen and (min-width: 768px) { *tablet specific css here* }`
 
-Some common web events are:
-* click
-* dblclick
-* mouseenter
-* mouseleave
-* hover
-* focus
-* blur
-* keypress
-* keydown
-* keyup
-* load
-* unload
+We spent the rest of class designing a simple pirate ship game that allows a user to move a boat around a grid, avoiding pirate ships until it found the treasure. Essentially a simple maze game all using javascript, css, and event listeners. This was great practice and showed how we are ready to start building cool stuff! 
 
-The most important web event however is, `DOMContentLoaded` which is triggered once all the elements on the page are loaded. This is a good time to register call any javascript to run on the page. 
+#### Job Search
+I don't know if I've mentioned job seach stuff here much, but it's time. Ever since I learned about the Coronavirus, I've been concerned about how that might effect our job searches. The result is that I've been applying to a lot of companies and trying to move forward in my job search independently of Tech Elevator. 
 
-We also covered **event propogation** which means that you can register a listener on a parent element and if an event occurs on a child, it will propogate up to the parent.
+Today I had my final round interview with Accenture. I had to prepare a technology showcase and explain how an up and coming technology might help Accenture provide value to a client. Then came there was a round of strengths-based questioning and a few client scenario questions. Overall, the interview was 75 minutes. 
 
+Accenture is a global technology consulting company and in Columbus, they work out of an "Innovation Hub" which is structured almost like a small startup inside of a huge company. I'm excited to hear back! 
 
 
