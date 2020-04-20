@@ -24,25 +24,29 @@ Finishing a bootcamp in the middle of a pandemic is not ideal, but overall I was
 
 ### The final capstone
 **Team Name:** Bravo
-**Project Name:** Vegetable Farm Assistant 
+
+**Project Name:** Vegetable Farm Assistant
+ 
 **Team Members:** Brian, Lucas, and Noah
-**Objective:** Create a web application to help small veggie farmers manage their seeding, harvesting, and logging as well as generate daily action items and weekly sales reports. 
+
+**Objective:** Create a web application to help small veggie farmers manage their seeding, harvesting, and logging as well as generate daily action items and weekly sales reports.
+ 
 **Solution:**
 * Tech Elevator instructor staff pre-populated a Trello board with user stories represented in cards. 
 * We met every morning for SCRUM meetings to talk about what we accomplished yesterday, hope to accomplish tomorrow
 * We ran short sprints lasting just two days and follow sprints with:
- * demos/card approval
- * retrospective meetings
- * planning for the next sprint
+  * demos/card approval
+  * retrospective meetings
+  * planning for the next sprint
 * For the most part, we wrote the entire application using **mob programming**-- a technique where one person shares their screen while the rest of us suggest code to write. We rotated the "driver" every few hours. 
 * We worked in 10-12 hour days to accomplish our sprint goals. 
 * Tech Stack: 
- * **Java** to write our API endpoints and data access layers
- * **Postgres SQL database** to store our persistent user data
- * **Vue.js** to make requests to java and display information to user
- * CSS/HTML in Vue to make a pretty user interface
- * SCSS css pre-processor
- * chart.js to display sales/harvest data graphically
+  * **Java** to write our API endpoints and data access layers
+  * **Postgres SQL database** to store our persistent user data
+  * **Vue.js** to make requests to java and display information to user
+  * CSS/HTML in Vue to make a pretty user interface
+  * SCSS css pre-processor
+  * chart.js to display sales/harvest data graphically
 
 **Screen Shots:**
 ![home]({{ site.baseurl }}/public/capstone-screens/home.png "Home")
