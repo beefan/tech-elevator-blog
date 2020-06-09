@@ -8,7 +8,7 @@ title:            Brandon Does a Coding Bootcamp
 tagline:          'at Tech Elevator - Columbus, OH'
 description:      "Brandon does a coding bootcamp at Tech Elevator. He blogs about it here. "
 url:              https://beefan.github.io/
-baseurl:          https:/beefan.github.io/tech-elevator-blog
+baseurl:          https://beefan.github.io/tech-elevator-blog
 
 author:
   name:           'Brandon Fannin'
